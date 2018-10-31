@@ -1,0 +1,25 @@
+
+
+body {
+  text-align: center;
+  padding: 70px 50px;
+  background: url('../img/image.jpg') no-repeat;
+  background-position-x:center;
+  font-family:'Bubbler One', sans-serif;
+}
+#timer {
+  font-size: 5em;
+  font-weight: 100;
+  color: lime;
+}
+#timer div {
+  display: inline-block;
+  min-width: 104px;
+}
+#timer div span {
+  color: #fff;
+  display: block;
+  font-size: 0.35em;
+  font-weight: 400;
+}
+
